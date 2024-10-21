@@ -32,7 +32,7 @@
 
 ## 📊 Proyectos Destacados
 
-[Aquí puedes listar algunos de tus proyectos de análisis de datos]
+[Proyectos de análisis de datos]
 
 ## 📈 Estadísticas de GitHub
 <!--
