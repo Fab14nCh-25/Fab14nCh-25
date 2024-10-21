@@ -35,7 +35,7 @@
 [Aquí puedes listar algunos de tus proyectos de análisis de datos]
 
 ## 📈 Estadísticas de GitHub
-
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioDeGitHub&layout=compact&langs_count=8&theme=algolia"/>
