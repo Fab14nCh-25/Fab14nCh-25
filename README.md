@@ -11,9 +11,11 @@
 🎓 Estoy estudiando Ingeniería de Sistemas en la Universidad Peruana de Ciencias Aplicadas (UPC).
 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en análisis de datos, estadísticas y visualización.
 💡 Me encanta explorar nuevas tecnologías y desarrollar soluciones innovadoras.
+🔍 Tengo experiencia en Oracle, Azure y Google Cloud Platform (GCP).
 🔍 Estoy interesado en Big Data, Machine Learning y Business Intelligence.
-✉️ Puedes contactarme en: chaguamartinkevin@gmail.com
 
+✉️ Puedes contactarme en: chaguamartinkevin@gmail.com
+<img alt="Cloud Computing" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <img alt="Análisis de Datos" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 Habilidades Técnicas
