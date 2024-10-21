@@ -1,6 +1,6 @@
-![Aditya Kanoi Banner](https://drive.google.com/file/d/1nawOdq2C-ZV_fkfhPyQjhoSzVLuKYPyT/view?usp=sharing)
+![FABIAN CH Banner](https://drive.google.com/file/d/1nawOdq2C-ZV_fkfhPyQjhoSzVLuKYPyT/view?usp=sharing)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fabian Chagua</h2>
 
 <!-- ## 👋  -->
 
@@ -38,10 +38,10 @@
 </p>
 
 ## 🤝🏻 Conecta conmigo
-
+<--!
 <p align="center">
 <a href="TuSitioWeb.com"><img src="https://img.shields.io/badge/-MiSitioWeb.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/TuPerfilDeLinkedIn"><img src="https://img.shields.io/badge/-Tu%20Nombre-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:chaguamartinkevin@gmail.com"><img src="https://img.shields.io/badge/-chaguamartinkevin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/TuInstagram"><img src="https://img.shields.io/badge/-@TuInstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+</p>-->
