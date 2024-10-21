@@ -14,7 +14,7 @@
 🚀 Tengo experiencia en Oracle, Azure y Google Cloud Platform (GCP).
 🔍 Estoy interesado en Big Data, Machine Learning y Business Intelligence.
 
-✉️ Puedes contactarme en: chaguamartinkevin@gmail.com
+✉️ Puedes contactarme en: chaguamartinkevin@gmail.com O kevin200316@hotmail.com
 <img alt="Cloud Computing" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
