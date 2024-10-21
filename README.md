@@ -1,4 +1,4 @@
-![FABIAN CH Banner](https://drive.google.com/file/d/1nawOdq2C-ZV_fkfhPyQjhoSzVLuKYPyT/view?usp=sharing)
+![FABIAN CH Banner](https://github.com/Fab14nCh-25/Fab14nCh-25/blob/main/Fabian%20(1).png?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fabian Chagua</h2>
 
